@@ -7,3 +7,9 @@ target/
 .classpath
 .settings
 .log
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
